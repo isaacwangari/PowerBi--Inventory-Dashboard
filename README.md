@@ -16,8 +16,7 @@ This **Power BI Inventory Management Dashboard** provides a **comprehensive view
 - **Power Automate** – Automated stock level notifications.
 - **GitHub** – Version control and project sharing.
 
-## 📸 Demo & Screenshots
-🔗 View screenshots and reports in the `Screenshots` folder. *(Optional: Add a link to a live Power BI report if shareable.)*
+
 
 ## 📥 Installation Steps
 1. **Download the `.pbix` file** from this repository.
